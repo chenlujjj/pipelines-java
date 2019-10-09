@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/953546398/chenlujjj-testproj/_apis/build/status/chenlujjj.pipelines-java?branchName=master)](https://dev.azure.com/953546398/chenlujjj-testproj/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
